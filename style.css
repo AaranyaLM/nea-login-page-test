@@ -4,8 +4,7 @@ body{
     font-family: 'Open Sans', sans-serif;
     height: 100vh;
     overflow: hidden;
-    color: rgb(0, 185, 242);
-    background-color: rgb(80, 121, 255);
+    background-color: rgb(53, 73, 254);
 }
 .login-box{
     position: absolute;
@@ -15,7 +14,6 @@ body{
     background-color: rgb(255, 255, 255);
     width:500px;
     border-radius: 20px;
-    margin-top: 50;
     height: 100%;
     padding: 50px 20px 50px;
 }
@@ -29,8 +27,12 @@ body{
 .login-box form{
     padding: 0 40px;
 }
+.content{
+   margin-top: 100px;
+}
 form{
     margin-bottom: 30px;
+    margin-top: 20%;
 }
 form .field{
     position: relative;
