@@ -21,7 +21,7 @@ body{
 
 .title{
     color:  #3065af;
-    font-size: 35px;
+    font-size: 30px;
    text-align: center;
    margin-top: 20px;
 }
@@ -113,7 +113,7 @@ input[type="submit"]:hover{
     left: 0;
     width: 0%;
     height: 2px;
-    background: #0095ff;
+    background:  #3c6cb1;
     transition: 0.5s;
 }
 .field input:focus ~ label,
